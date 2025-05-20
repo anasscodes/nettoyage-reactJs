@@ -14,7 +14,7 @@ const Hero = () => {
         {/* Right Side: Image with Animation */}
         <div className="right-content">
           <img 
-            src="src/assets/hero1.jpg" 
+            src="https://i.ibb.co/7dsKvdrk/hero1.jpg" 
             alt="Cleaning Service" 
             className="hero-image animate__animated animate__fadeInUp"
           />

@@ -22,7 +22,8 @@ const Service = () => {
                     <div className="card service-card shadow-lg rounded-2 p-3">
                         <div className="card-body text-center">
                             <div className="service-image-container">
-                                <img src="/src/assets/Home.jpg" alt="Nettoyage Résidentiel" className="service-image" />
+                                <img src="https://i.ibb.co/8D0NcrHq/Home.jpg" 
+                                alt="Nettoyage Résidentiel" className="service-image" />
                             </div>
                             <h5 className="card-title">Nettoyage Résidentiel</h5>
                             <p className="card-text">Un nettoyage complet et détaillé pour votre maison.</p>
@@ -37,7 +38,8 @@ const Service = () => {
                     <div className="card service-card shadow-lg rounded-2 p-3">
                         <div className="card-body text-center">
                             <div className="service-image-container">
-                                <img src="/src/assets/bureau.jpg" alt="Nettoyage de Bureaux" className="service-image" />
+                                <img src="https://i.ibb.co/4nVdhd9F/bureau.jpg" 
+                                alt="Nettoyage de Bureaux" className="service-image" />
                             </div>
                             <h5 className="card-title">Nettoyage de Bureaux</h5>
                             <p className="card-text">Gardez votre espace de travail propre et productif.</p>
@@ -52,7 +54,8 @@ const Service = () => {
                     <div className="card service-card shadow-lg rounded-2 p-3">
                         <div className="card-body text-center">
                             <div className="service-image-container">
-                                <img src="/src/assets/commercial.jpg" alt="Nettoyage Commercial" className="service-image" />
+                                <img src="https://i.ibb.co/5hrH0FJP/commercial.jpg" 
+                                alt="Nettoyage Commercial" className="service-image" />
                             </div>
                             <h5 className="card-title">Nettoyage Commercial</h5>
                             <p className="card-text">Des services professionnels pour les grands espaces et les entreprises.</p>
